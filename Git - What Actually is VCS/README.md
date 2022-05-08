@@ -34,7 +34,7 @@ So, you renamed it again:
 
 ![image](./images/git-what-actually-is-vcs/image3.png)
 
-As you revisions, refinement, research and/or modifications increases, so would your files because you want to _keep track_ of what you are doing and how you are doing it.
+As revisions, refinement, research and/or modifications increases, so would your files because you want to _keep track_ of what you are doing and how you are doing it.
 
 But wait... Even after all that hassle, you can keep track of versions of files but you still cannot track what you have been editing all this time, right?
 
@@ -48,4 +48,4 @@ Enters Git!
 
 A free of cost assistant, to manage and solve the problem that we just discussed!
 
-We will be sharing how it solves the aformentioned problems in detailed in our upcoming article.
+We will be sharing how it solves the aformentioned problems in detail in our upcoming article.
