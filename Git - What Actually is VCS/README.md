@@ -22,17 +22,17 @@ It is a _Version Control System_, as everyone says, but what does _VCS actually 
 
 Lets say, you are making notes of something in a simple text file, named as "notes.txt"
 
-![image](./images/git-what-actually-is-vcs/image1.png)
+![image](./images/image1.png)
 
 The notes were quite rough, so you refined it later and named it as, "notes - refined .txt"
 Now, you have two files:
 
-![image](./images/git-what-actually-is-vcs/image2.png)
+![image](./images/image2.png)
 
 Lets say, you researched about a topic, or discussed it with a friend or someone asked a revision of it, and you are like me, you always want to keep a copy (i.e., history) of what you have been doing throughout your time on particular work.
 So, you renamed it again:
 
-![image](./images/git-what-actually-is-vcs/image3.png)
+![image](./images/image3.png)
 
 As revisions, refinement, research and/or modifications increases, so would your files because you want to _keep track_ of what you are doing and how you are doing it.
 
