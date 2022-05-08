@@ -9,7 +9,10 @@ Create a separate branch first and then push your article in it. Please follow f
 
 ### Branch Rules
 
-`[author-name][article-name]`
+`author_article-name`
+
+### Example
+`shameel_what-actually-is-git`
 
 ### Repo Rules
 
@@ -21,11 +24,14 @@ Create a separate repository for your the article where the repository name shou
 
 ### Commiting Rules
 
-For posting Articles
+For posting Articles:
+
 `[ARTICLE][post] - <Article-Name>`
 
 For Editing Article:
+
 `[ARTICLE][edit] - <Article-Name>`
 
 For Fixing Something:
+
 `[ARTICLE][fix] - <Article-Name>`
